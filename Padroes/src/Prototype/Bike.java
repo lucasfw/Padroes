@@ -18,7 +18,7 @@ class Bike implements Cloneable {
 	public void makeAdvanced() {
 		tipo = "Avançado";
 		modelo = "Caloi HTX";
-		marchas = 8;
+		marchas = 4;
 	}
 	public String getModelo(){
 		return modelo;
